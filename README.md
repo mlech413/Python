@@ -7,4 +7,5 @@ The Python script "main.py" reads in the csv file "budget_data.csv" in the Resou
 * The changes in "Profit/Losses" over the entire period, and then the average of those changes
 * The greatest increase in profits (date and amount) over the entire period
 * The greatest decrease in profits (date and amount) over the entire period
+
 The script outputs to the terminal, and also writes out file "financial_analysis.txt" in the analysis folder.
